@@ -15,7 +15,7 @@ SELECT
 	SUM(payment_value) -- Soma a receita total
 FROM 
 	olist_order_payments;
--- A receita obtida foi de 15.4 Milhões de Reais.
+-- A receita obtida foi de 15.4 Milhões de Reais. (Vendas e Frete)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 -- 3. Quantos clientes estão registrados no Banco de Dados?
