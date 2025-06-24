@@ -8,7 +8,7 @@ Para este projeto, defini **27 perguntas-chave** a serem respondidas por meio da
 
 1) Quantos pedidos foram feitos?  
 2) Qual é o total de vendas (valor)?  
-3) Quantos clientes únicos realizaram pelo menos uma compra?  
+3) Quantos clientes estão registrados no Banco de Dados? 
 4) Qual foi o mês com o maior volume de pedidos?  
 5) Quais são as cinco categorias de produtos mais vendidas em quantidade de itens?  
 6) Qual é o ticket médio por pedido?  
